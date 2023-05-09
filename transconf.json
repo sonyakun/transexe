@@ -1,0 +1,8 @@
+{
+    "lvl1": ["en"],
+    "lvl2": ["en", "tr"],
+    "lvl3": ["en", "tr", "zh-CN", "ko", "ar", "fr"],
+    "max": ["en", "tr", "zh-CN", "ko", "ar", "fr", "vi", "uk", "ru", "ja", "en", "tr", "zh-CN", "ko", "ar", "fr", "vi", "uk", "ru"],
+    "master": ["en", "tr", "zh-CN", "ko", "ar", "fr", "vi", "uk", "ru", "ja", "en", "tr", "zh-CN", "ko", "ar", "fr", "vi", "uk", "ru", "en", "tr", "zh-CN", "ko", "ar", "fr", "vi", "uk", "ru", "ja", "en", "tr", "zh-CN", "ko", "ar", "fr", "vi", "uk", "ru"],
+    "master_comment": "隠し崩壊レベル「masterは5で利用可能」"
+}
